@@ -1,0 +1,30 @@
+﻿<dict>  
+
+ <key>succ</key>   <string>成功</string>  
+ <key>fail</key>   <string>失败</string>  
+ <key>time</key>      <string>计时</string>  
+ <key>Quit</key>      <string>退出</string>  
+ <key>NextLevel</key> <string>下一级</string>
+ <key>ReStart</key>   <string>重试</string>
+ <key>InnerDebug</key>   <string>作弊</string>
+
+<key>c_white</key>   <string>白色</string>  
+<key>c_black</key>   <string>黑色</string>  
+<key>c_red</key>   <string>红色</string>  
+<key>c_yellow</key>   <string>黄色</string>  
+<key>c_green</key>   <string>绿色</string>  
+<key>c_blue</key>   <string>蓝色</string>  
+<key>c_gray</key>   <string>灰色</string>  
+<key>c_orange</key>   <string>橙色</string>  
+<key>c_purple</key>   <string>紫色</string>
+  
+<key>col_left</key>  <string>找出</string>
+<key>col_right</key>  <string>的字</string>
+
+<key>bc07_desc</key>
+<string>您刚刚听到的琴音，是哪几个琴键同时按下的？</string>
+
+<key>bc08_desc</key>
+<string>刚刚听到的混音歌曲，由%d首歌曲混合在一起，你能找出来是哪%d首歌曲吗？</string>
+
+</dict>  
